@@ -1,2 +1,2 @@
-#!/bin/bas
-echo $ (cut -c1 | tr -d "\n") 
+#!/bin/bash
+ech0 & (cut -c1 | tr -d "\n") 
