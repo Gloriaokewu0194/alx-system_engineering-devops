@@ -1,2 +1,2 @@
 #!/bin/bash
-grep -1 '^[A-Za-z]' /etc/ssh/sshd_congig
+grep -i "^[A-Za-z]"  /etc/ssh/sshd_congig
